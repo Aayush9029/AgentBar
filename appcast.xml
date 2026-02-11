@@ -2,8 +2,21 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>AgentBar</title>
-    <link>https://aayush9029.github.io/AgentBar</link>
+    <link>https://aayush9029.github.io/agentbar-landing</link>
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
+    <item>
+      <title>Version 1.0.1</title>
+      <pubDate>Wed, 11 Feb 2026 23:43:37 +0000</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Aayush9029/AgentBar/releases/download/v1.0.1/AgentBar-1.0.1.dmg"
+        sparkle:edSignature="UZ4/tsOMvLMqiFTRGlZstNDxaIs8HbkXb7VG4/7RN5FMhF8+Y7v+PnYksrHe90bBPca2TBq/Q7tGevzgjqh5Bw=="
+        length="8401989"
+        type="application/octet-stream"
+      />
+    </item>
   </channel>
 </rss>
