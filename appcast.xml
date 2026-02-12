@@ -6,15 +6,15 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.6</title>
-      <pubDate>Thu, 12 Feb 2026 05:21:15 +0000</pubDate>
-      <sparkle:version>8</sparkle:version>
-      <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+      <title>Version 1.0.7</title>
+      <pubDate>Thu, 12 Feb 2026 17:09:30 +0000</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/Aayush9029/AgentBar/releases/download/v1.0.6/AgentBar-1.0.6.dmg"
-        sparkle:edSignature="99/J+pupF583K8F/yZ8On0povpIYi21f+m0z3SZXQ1GRphyY31G7VIqxY/Q1uaL/aoDaW2nv4QNrwO/LwVHEDQ=="
-        length="8369489"
+        url="https://github.com/Aayush9029/AgentBar/releases/download/v1.0.7/AgentBar-1.0.7.dmg"
+        sparkle:edSignature="rgugawz7j23Ol8jpCd7n9AnD2JmtIO8VPbqvoAY9gYLjxKnpRqNpLRLbetOLTDp1Ai1EfBOwLobS1pKjQ3mQAA=="
+        length="8377759"
         type="application/octet-stream"
       />
     </item>
